@@ -1,0 +1,11 @@
+C:\Users\CLienT\source\repos\finalna to\finalna to\bin\Debug\finalna to.exe.config
+C:\Users\CLienT\source\repos\finalna to\finalna to\bin\Debug\finalna to.exe
+C:\Users\CLienT\source\repos\finalna to\finalna to\bin\Debug\finalna to.pdb
+C:\Users\CLienT\source\repos\finalna to\finalna to\obj\Debug\finalna to.csproj.AssemblyReference.cache
+C:\Users\CLienT\source\repos\finalna to\finalna to\obj\Debug\finalna_to.Form1.resources
+C:\Users\CLienT\source\repos\finalna to\finalna to\obj\Debug\finalna_to.Properties.Resources.resources
+C:\Users\CLienT\source\repos\finalna to\finalna to\obj\Debug\finalna to.csproj.GenerateResource.cache
+C:\Users\CLienT\source\repos\finalna to\finalna to\obj\Debug\finalna to.csproj.CoreCompileInputs.cache
+C:\Users\CLienT\source\repos\finalna to\finalna to\obj\Debug\finalna to.exe
+C:\Users\CLienT\source\repos\finalna to\finalna to\obj\Debug\finalna to.pdb
+C:\Users\CLienT\source\repos\finalna to\finalna to\obj\Debug\finalna_to.MAINTENACE.resources
